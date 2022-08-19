@@ -1,4 +1,4 @@
-# **Paytm Clone** [![Badge](https://img.shields.io/badge/Paytm%20Clone-Tailwind%20CSS-yellow)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+# **Paytm Clone** [![Badge](https://img.shields.io/badge/Paytm%20Clone-Tailwind%20CSS-yellow)](https://project-paytm-clone-home-page.netlify.app/ "Project link")
 
 Hello, I'm **Vikash Yadav** 
 
@@ -16,8 +16,8 @@ This project is made using **Tailwind CSS** and it's a part of the **Full Stack 
 ### **Time spent to finish it.**
 It took me 3 days to complete this project.
 
-**[Live Project's netlify link](https://street-style-landing-page-project-01.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://project-paytm-clone-home-page.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./image/paytm-clone-ss.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Project ScreenShot](./image/paytm-clone-ss.png)](https://project-paytm-clone-home-page.netlify.app/ "Project link")
 
 
